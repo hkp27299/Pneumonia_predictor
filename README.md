@@ -1,4 +1,4 @@
-# pnemonia
+# pneumonia
 
 A new Flutter project.
 
